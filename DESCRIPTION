@@ -10,6 +10,7 @@ License: GPL>=2
 
 Attention:
 
-LncRIndiv_1.0.zip is package for Windows System. When using this package, the user need to load it form "Install package(s) form local files" option in the R interface.
+LncRIndiv_1.0.zip is package for Windows System. When using this package, the user needs to use "Install package(s) from local files" option in the R interface, and then 'library("LncRIndiv")' to load LncRIndiv method. The user can use the command of '?LncRIndiv' to call 'help document' to check out the usage of LncRIndiv method.  
 
-LncRIndiv_1.0.tar.gz is package for Linux/Unix System.
+LncRIndiv_1.0.tar.gz is package for Linux/Unix System. When using this package, the user needs to use the command "Install.packages("Path/LncRIndiv_1.0.tar.gz") in the R commond shell, and then 'library("LncRIndiv")' to load LncRIndiv method. The user can use the command of '?LncRIndiv' to call 'help document' to check out the usage of LncRIndiv method.
+
