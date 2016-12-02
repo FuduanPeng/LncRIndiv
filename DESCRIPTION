@@ -1,0 +1,9 @@
+Package: LncRIndiv
+Type: Package
+Title: Individual-level analysis of differential expression of long non-coding RNAs
+Version: 1.0
+Date: 2016-12-02
+Author: Fuduan Peng, Zhangxiang Zhao and Yunyan Gu
+Maintainer: Fuduan Peng <pengfd@ems.hrbmu.edu.cn>, zjzhaozhangxiang@126.com and Yunyan Gu <guyunyan@ems.hrbmu.edu.cn>
+Description: The relative ordering of long non-coding RNAs (lncRNAs) is overall stable in a particular type of normal human tissue but widely disturbed in diseased tissue. Taking this into account, we proposed a method to detect differentially expressed lncRNAs in individual disease samples by utilizing the disrupted ordering in the disease samples.
+License: GPL>=2
